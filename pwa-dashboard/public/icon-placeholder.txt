@@ -1,0 +1,17 @@
+# PWA Icons
+
+Place your PWA icons here:
+
+- icon-192.png (192x192 pixels)
+- icon-512.png (512x512 pixels)
+
+These icons are referenced in manifest.json and will appear:
+- On the home screen when installed
+- In the browser tab
+- In the app switcher
+
+You can generate icons from a single image using tools like:
+- https://realfavicongenerator.net/
+- https://www.pwabuilder.com/imageGenerator
+
+For now, you can use any PNG image and rename it to icon-192.png and icon-512.png.
